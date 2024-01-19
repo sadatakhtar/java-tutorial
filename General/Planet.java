@@ -1,3 +1,4 @@
+package General;
 public class Planet {
     void revovle() {
         System.out.println("Revolving....");

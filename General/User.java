@@ -1,3 +1,4 @@
+package General;
 public class User {
     private String name = "Harry";
     private String membership = "Gold";

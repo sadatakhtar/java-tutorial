@@ -1,3 +1,4 @@
+package General;
 public class BlockExample {
     static {
         System.out.println("This is a static block - it runs when the class is loaded.");
